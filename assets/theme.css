@@ -6996,3 +6996,16 @@ hr {
 
 .store-availability-list__phone {
   margin-bottom: 0; }
+
+.product-form__cart-submit {
+  background-color: red;
+  border: 2px solid green;
+  color: white;
+}
+
+/* Hover */
+.product-form__cart-submit:hover {
+  background-color: white !important;
+  border: 2px solid red !important;
+  color: black !important;
+}
